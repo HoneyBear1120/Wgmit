@@ -131,7 +131,7 @@ const TopMint = () => {
                 <td className="bg-3b3363">
                   <span>{i + 1}</span>
                   <img
-                    src={FriendIcon}
+                    src={mintData["logo"]}
                     alt="friend-search-icon"
                     className="img-fluid"
                   />
