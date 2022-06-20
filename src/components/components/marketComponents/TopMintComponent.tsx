@@ -26,6 +26,7 @@ const TopMint = () => {
     });
   }, []); 
 
+  console.log(topMintData);
   return (
     <>
       <section className="w-100 float-left banner-con design-img main-box">
